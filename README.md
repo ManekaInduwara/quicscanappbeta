@@ -1,0 +1,2 @@
+# quicscanappbeta
+beta app
